@@ -1,0 +1,1 @@
+verific -f -sv ./cv32e40p_manifest.flist
